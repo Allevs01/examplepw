@@ -30,17 +30,17 @@ curl -L https://github.com/iotaledger/iota-sandbox/releases/latest/download/iota
 
 To bootstrap the IOTA Sandbox, run:
 
-\`\`\`bash
+```bash
 sudo ./bootstrap.sh
-\`\`\`
+```
 
 ### Step 3: Start the IOTA Sandbox
 
 Finally, start the IOTA Sandbox with:
 
-\`\`\`bash
+```bash
 docker compose up -d
-\`\`\`
+```
 
 ## Examples
 
