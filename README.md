@@ -1,3 +1,4 @@
+
 # examplepw
 
 A simple tutorial on how to install an IOTA node with IOTA Sandbox on your Linux device and interact with it.
@@ -17,10 +18,12 @@ These components are essential for setting up the IOTA Sandbox environment on a 
 
 ### Step 1: Download the Latest Version
 
-Run the following command to download the latest version of IOTA Sandbox:
+Run the following commands to download the latest version of IOTA Sandbox:
 
 \`\`\`bash
-mkdir iota-sandbox && cd iota-sandbox && curl -L https://github.com/iotaledger/iota-sandbox/releases/latest/download/iota_sandbox.tar.gz | tar -zx
+mkdir iota-sandbox
+cd iota-sandbox
+curl -L https://github.com/iotaledger/iota-sandbox/releases/latest/download/iota_sandbox.tar.gz | tar -zx
 \`\`\`
 
 ### Step 2: Bootstrap the Sandbox
