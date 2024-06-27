@@ -20,11 +20,11 @@ These components are essential for setting up the IOTA Sandbox environment on a 
 
 Run the following commands to download the latest version of IOTA Sandbox:
 
-\`\`\`bash
+```bash
 mkdir iota-sandbox
 cd iota-sandbox
 curl -L https://github.com/iotaledger/iota-sandbox/releases/latest/download/iota_sandbox.tar.gz | tar -zx
-\`\`\`
+```
 
 ### Step 2: Bootstrap the Sandbox
 
