@@ -32,3 +32,7 @@ path = "src/createdid.rs"
 [[bin]]
 name = "createvc"
 path = "src/issuevc.rs"
+
+[[bin]]
+name = "pushandretrieve"
+path = "src/pushandretrieve.rs"
